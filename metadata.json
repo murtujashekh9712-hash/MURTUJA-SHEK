@@ -1,0 +1,6 @@
+{
+  "name": "PDF Stored",
+  "description": "Store, organize, read, and manage your PDF documents with built-in viewer, categories, bookmarks, and creation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
